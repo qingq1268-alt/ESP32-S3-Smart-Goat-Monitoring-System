@@ -1,0 +1,61 @@
+{
+  "time_scale": 1.0,
+  "min_confidence": 0.50,
+  "switch_confirmations": 2,
+  "alert_cooldown_sec": 600,
+
+  "thresholds_sec": {
+    "long_still_sec": 7200,
+    "intense_activity_sec": 1800,
+    "no_ruminating_sec": 21600,
+    "insufficient_grazing_sec": 14400,
+    "min_ruminating_sec": 16800,
+    "frequent_switch_count_per_hour": 20,
+    "circadian_night_active_ratio": 0.35,
+    "high_activity_low_grazing_activity_ratio": 0.50,
+    "high_activity_low_grazing_grazing_ratio": 0.10
+  },
+
+  "score": {
+    "ideal_grazing_sec": 21600,
+    "ideal_ruminating_sec": 14400,
+    "ideal_activity_sec": 7200,
+    "min_resting_sec": 14400,
+    "max_resting_sec": 36000,
+    "alert_penalty_per_event": 2,
+    "max_alert_penalty": 10
+  },
+
+  "score_levels": [
+    {
+      "min": 90,
+      "name": "行为稳定",
+      "display": "优良",
+      "severity": "normal"
+    },
+    {
+      "min": 80,
+      "name": "基本正常",
+      "display": "良好",
+      "severity": "normal"
+    },
+    {
+      "min": 70,
+      "name": "轻度偏离",
+      "display": "需关注",
+      "severity": "warning"
+    },
+    {
+      "min": 60,
+      "name": "中度异常",
+      "display": "预警",
+      "severity": "warning"
+    },
+    {
+      "min": 0,
+      "name": "高风险",
+      "display": "建议人工复核",
+      "severity": "danger"
+    }
+  ]
+}

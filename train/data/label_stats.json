@@ -1,0 +1,433 @@
+{
+  "row_counts": {
+    "Displacement": 53744,
+    "Grazing": 5968400,
+    "Ruminating_Chewing": 933117,
+    "Other": 549425,
+    "Resting": 5251983
+  },
+  "window_counts": {
+    "Displacement": 945,
+    "Grazing": 88914,
+    "Ruminating_Chewing": 13636,
+    "Other": 5806,
+    "Resting": 79983
+  },
+  "total_rows": 12756669,
+  "total_windows": 189284,
+  "per_animal_window_counts": {
+    "1": {
+      "Displacement": 72,
+      "Grazing": 500,
+      "Ruminating_Chewing": 0,
+      "Other": 28,
+      "Resting": 2641
+    },
+    "2": {
+      "Displacement": 0,
+      "Grazing": 79,
+      "Ruminating_Chewing": 1,
+      "Other": 1,
+      "Resting": 160
+    },
+    "3": {
+      "Displacement": 3,
+      "Grazing": 114,
+      "Ruminating_Chewing": 1935,
+      "Other": 11,
+      "Resting": 2530
+    },
+    "4": {
+      "Displacement": 2,
+      "Grazing": 0,
+      "Ruminating_Chewing": 21,
+      "Other": 1,
+      "Resting": 145
+    },
+    "5": {
+      "Displacement": 0,
+      "Grazing": 148,
+      "Ruminating_Chewing": 8,
+      "Other": 3,
+      "Resting": 529
+    },
+    "6": {
+      "Displacement": 157,
+      "Grazing": 68,
+      "Ruminating_Chewing": 433,
+      "Other": 89,
+      "Resting": 4485
+    },
+    "7": {
+      "Displacement": 4,
+      "Grazing": 1398,
+      "Ruminating_Chewing": 1423,
+      "Other": 2,
+      "Resting": 1206
+    },
+    "8": {
+      "Displacement": 0,
+      "Grazing": 1745,
+      "Ruminating_Chewing": 0,
+      "Other": 114,
+      "Resting": 1239
+    },
+    "9": {
+      "Displacement": 19,
+      "Grazing": 703,
+      "Ruminating_Chewing": 882,
+      "Other": 14,
+      "Resting": 1645
+    },
+    "10": {
+      "Displacement": 69,
+      "Grazing": 1493,
+      "Ruminating_Chewing": 0,
+      "Other": 151,
+      "Resting": 730
+    },
+    "11": {
+      "Displacement": 0,
+      "Grazing": 1622,
+      "Ruminating_Chewing": 0,
+      "Other": 179,
+      "Resting": 274
+    },
+    "12": {
+      "Displacement": 0,
+      "Grazing": 1617,
+      "Ruminating_Chewing": 0,
+      "Other": 324,
+      "Resting": 2967
+    },
+    "13": {
+      "Displacement": 0,
+      "Grazing": 2365,
+      "Ruminating_Chewing": 0,
+      "Other": 203,
+      "Resting": 449
+    },
+    "14": {
+      "Displacement": 0,
+      "Grazing": 16,
+      "Ruminating_Chewing": 135,
+      "Other": 5,
+      "Resting": 31
+    },
+    "15": {
+      "Displacement": 36,
+      "Grazing": 515,
+      "Ruminating_Chewing": 389,
+      "Other": 32,
+      "Resting": 2048
+    },
+    "16": {
+      "Displacement": 8,
+      "Grazing": 1873,
+      "Ruminating_Chewing": 386,
+      "Other": 91,
+      "Resting": 1079
+    },
+    "17": {
+      "Displacement": 0,
+      "Grazing": 1370,
+      "Ruminating_Chewing": 0,
+      "Other": 75,
+      "Resting": 3228
+    },
+    "18": {
+      "Displacement": 47,
+      "Grazing": 690,
+      "Ruminating_Chewing": 688,
+      "Other": 3,
+      "Resting": 709
+    },
+    "19": {
+      "Displacement": 46,
+      "Grazing": 343,
+      "Ruminating_Chewing": 1,
+      "Other": 1,
+      "Resting": 109
+    },
+    "20": {
+      "Displacement": 13,
+      "Grazing": 806,
+      "Ruminating_Chewing": 434,
+      "Other": 64,
+      "Resting": 2549
+    },
+    "21": {
+      "Displacement": 68,
+      "Grazing": 896,
+      "Ruminating_Chewing": 1324,
+      "Other": 28,
+      "Resting": 3898
+    },
+    "22": {
+      "Displacement": 49,
+      "Grazing": 1500,
+      "Ruminating_Chewing": 642,
+      "Other": 11,
+      "Resting": 816
+    },
+    "23": {
+      "Displacement": 0,
+      "Grazing": 793,
+      "Ruminating_Chewing": 0,
+      "Other": 101,
+      "Resting": 572
+    },
+    "24": {
+      "Displacement": 1,
+      "Grazing": 705,
+      "Ruminating_Chewing": 215,
+      "Other": 0,
+      "Resting": 312
+    },
+    "25": {
+      "Displacement": 12,
+      "Grazing": 7338,
+      "Ruminating_Chewing": 44,
+      "Other": 246,
+      "Resting": 1525
+    },
+    "26": {
+      "Displacement": 0,
+      "Grazing": 2362,
+      "Ruminating_Chewing": 0,
+      "Other": 274,
+      "Resting": 1674
+    },
+    "27": {
+      "Displacement": 8,
+      "Grazing": 37,
+      "Ruminating_Chewing": 35,
+      "Other": 0,
+      "Resting": 48
+    },
+    "28": {
+      "Displacement": 32,
+      "Grazing": 444,
+      "Ruminating_Chewing": 6,
+      "Other": 17,
+      "Resting": 718
+    },
+    "29": {
+      "Displacement": 0,
+      "Grazing": 0,
+      "Ruminating_Chewing": 211,
+      "Other": 8,
+      "Resting": 0
+    },
+    "30": {
+      "Displacement": 32,
+      "Grazing": 702,
+      "Ruminating_Chewing": 474,
+      "Other": 46,
+      "Resting": 1162
+    },
+    "31": {
+      "Displacement": 0,
+      "Grazing": 4186,
+      "Ruminating_Chewing": 295,
+      "Other": 98,
+      "Resting": 2960
+    },
+    "32": {
+      "Displacement": 0,
+      "Grazing": 1460,
+      "Ruminating_Chewing": 0,
+      "Other": 409,
+      "Resting": 1647
+    },
+    "33": {
+      "Displacement": 6,
+      "Grazing": 250,
+      "Ruminating_Chewing": 100,
+      "Other": 24,
+      "Resting": 2496
+    },
+    "34": {
+      "Displacement": 0,
+      "Grazing": 1535,
+      "Ruminating_Chewing": 0,
+      "Other": 18,
+      "Resting": 926
+    },
+    "35": {
+      "Displacement": 10,
+      "Grazing": 672,
+      "Ruminating_Chewing": 1221,
+      "Other": 40,
+      "Resting": 1192
+    },
+    "36": {
+      "Displacement": 0,
+      "Grazing": 0,
+      "Ruminating_Chewing": 0,
+      "Other": 0,
+      "Resting": 0
+    },
+    "37": {
+      "Displacement": 69,
+      "Grazing": 516,
+      "Ruminating_Chewing": 753,
+      "Other": 66,
+      "Resting": 1909
+    },
+    "38": {
+      "Displacement": 0,
+      "Grazing": 1621,
+      "Ruminating_Chewing": 0,
+      "Other": 168,
+      "Resting": 494
+    },
+    "39": {
+      "Displacement": 17,
+      "Grazing": 2682,
+      "Ruminating_Chewing": 40,
+      "Other": 45,
+      "Resting": 519
+    },
+    "40": {
+      "Displacement": 28,
+      "Grazing": 3573,
+      "Ruminating_Chewing": 305,
+      "Other": 72,
+      "Resting": 1334
+    },
+    "41": {
+      "Displacement": 0,
+      "Grazing": 1269,
+      "Ruminating_Chewing": 0,
+      "Other": 3,
+      "Resting": 61
+    },
+    "42": {
+      "Displacement": 0,
+      "Grazing": 2391,
+      "Ruminating_Chewing": 0,
+      "Other": 77,
+      "Resting": 81
+    },
+    "43": {
+      "Displacement": 56,
+      "Grazing": 1223,
+      "Ruminating_Chewing": 215,
+      "Other": 97,
+      "Resting": 1643
+    },
+    "44": {
+      "Displacement": 73,
+      "Grazing": 715,
+      "Ruminating_Chewing": 809,
+      "Other": 81,
+      "Resting": 1170
+    },
+    "45": {
+      "Displacement": 0,
+      "Grazing": 2903,
+      "Ruminating_Chewing": 0,
+      "Other": 283,
+      "Resting": 2489
+    },
+    "46": {
+      "Displacement": 3,
+      "Grazing": 2796,
+      "Ruminating_Chewing": 0,
+      "Other": 417,
+      "Resting": 1714
+    },
+    "47": {
+      "Displacement": 0,
+      "Grazing": 3480,
+      "Ruminating_Chewing": 0,
+      "Other": 155,
+      "Resting": 1057
+    },
+    "48": {
+      "Displacement": 0,
+      "Grazing": 3823,
+      "Ruminating_Chewing": 0,
+      "Other": 64,
+      "Resting": 154
+    },
+    "49": {
+      "Displacement": 0,
+      "Grazing": 1880,
+      "Ruminating_Chewing": 0,
+      "Other": 157,
+      "Resting": 349
+    },
+    "50": {
+      "Displacement": 0,
+      "Grazing": 2086,
+      "Ruminating_Chewing": 0,
+      "Other": 512,
+      "Resting": 1789
+    },
+    "51": {
+      "Displacement": 0,
+      "Grazing": 4109,
+      "Ruminating_Chewing": 0,
+      "Other": 79,
+      "Resting": 1954
+    },
+    "52": {
+      "Displacement": 0,
+      "Grazing": 468,
+      "Ruminating_Chewing": 0,
+      "Other": 83,
+      "Resting": 5438
+    },
+    "53": {
+      "Displacement": 0,
+      "Grazing": 3598,
+      "Ruminating_Chewing": 0,
+      "Other": 63,
+      "Resting": 596
+    },
+    "54": {
+      "Displacement": 2,
+      "Grazing": 375,
+      "Ruminating_Chewing": 1,
+      "Other": 14,
+      "Resting": 2489
+    },
+    "55": {
+      "Displacement": 3,
+      "Grazing": 331,
+      "Ruminating_Chewing": 17,
+      "Other": 40,
+      "Resting": 157
+    },
+    "56": {
+      "Displacement": 0,
+      "Grazing": 508,
+      "Ruminating_Chewing": 156,
+      "Other": 22,
+      "Resting": 1784
+    },
+    "57": {
+      "Displacement": 0,
+      "Grazing": 2865,
+      "Ruminating_Chewing": 0,
+      "Other": 155,
+      "Resting": 900
+    },
+    "58": {
+      "Displacement": 0,
+      "Grazing": 2073,
+      "Ruminating_Chewing": 37,
+      "Other": 365,
+      "Resting": 1606
+    },
+    "59": {
+      "Displacement": 0,
+      "Grazing": 3284,
+      "Ruminating_Chewing": 0,
+      "Other": 77,
+      "Resting": 1597
+    }
+  }
+}

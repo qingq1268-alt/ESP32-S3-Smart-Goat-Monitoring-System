@@ -1,0 +1,64 @@
+# AI/tooling and editor-local files
+.aider*
+.agents/
+.claude/
+.codex/
+.vscode/
+*.code-workspace
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.swp
+*.swo
+*.tmp
+*.bak
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.venv/
+.venv-*/
+venv/
+env/
+*.egg-info/
+
+# Logs and runtime data
+*.log
+livestock_data.db
+**/livestock_data.db
+*.sqlite
+*.sqlite3
+
+# Build and packaged outputs
+build/
+dist/
+pyinstaller_build/
+*.exe
+*.apk
+*.zip
+
+# Local Android SDK/JDK and generated Android outputs
+android-sdk/
+android-tools/
+android_app/build/
+android_app/release/
+
+# ESP-IDF generated files and local component cache
+SPI/build/
+SPI/managed_components/
+SPI/.cache/
+SPI/.claude/
+SPI/.vscode/
+SPI/sdkconfig.backup
+SPI/sdkconfig.old
+SPI/sdkconfig.power_optimization
+SPI/compile_commands.json
+
+# Training artifacts generated from data/code
+train/results/
+train/export/
+train/*.log
